@@ -1,0 +1,24 @@
+{
+    "theme_color":"#ff600a",
+    "background_color":"#08ba4c",
+    "icons":[{"purpose":"maskable",
+    "sizes":"512x512",
+    "src":"icon512_maskable.png",
+    "type":"image/png"
+},
+    
+{
+    "purpose":"any",
+    "sizes":"512x512",
+    "src":"icon512_rounded.png",
+    "type":"image/png"}],
+    "orientation":"any",
+    "display":"standalone",
+    "dir":"auto",
+    "lang":"es-ES",
+    "name":"EcoRutas Medellín",
+    "short_name":"EcoRutas",
+    "start_url":"/",
+    "scope":"/",
+    "id":"/"
+}

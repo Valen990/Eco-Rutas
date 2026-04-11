@@ -5,7 +5,6 @@ import { Link } from 'react-router-dom';
 function Information() {
     return (
         <section className="container py-5 text-center">
-            
             <div className="badge rounded-pill bg-success-subtle text-success mb-3 p-2 px-3 d-inline-flex align-items-center" >
                 <span className="pulse-dot me-2">●</span>
                 Información actualizada 2026

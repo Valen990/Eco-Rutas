@@ -7,7 +7,7 @@ function Navbar() {
         <nav className="navbar">
             <div className="nav-wrapper">
                 <a href="/" className="logo">
-                    <img src="src/img/logo-pagina.png" alt="Logo" className="nav-logo-img" />
+                    <img src="/logo-pagina.png" alt="Logo" className="nav-logo-img" />
                     <span className="brand-name">
                         Eco<span className="brand-highlight">Rutas</span>
                     </span>
@@ -17,11 +17,11 @@ function Navbar() {
                 <Link to="/caracteristicas" className="nav-link">Características</Link>
 
                 <div className="nav-right">
-                    <form className="search-box">
+                    {/* <form className="search-box">
                         <input type="text" placeholder="Buscar..." />
                         <button type="submit">🔍︎</button>
-                    </form>
-
+                    </form> */}
+                
                     <div className="location">
                         <span>📍 Comunas 1 y 2, Medellín</span>
                     </div>
